@@ -1,0 +1,13 @@
+{
+    "tiles":{
+        "blocks":{
+            "grass":"grass_block.png",
+            "path":"path_block.png"
+        },
+        "layers":{
+            "grass":"grass.png",
+            "path":"path.png",
+            "selected":"grass_selected.png"
+        }
+    }
+}
